@@ -1,0 +1,1 @@
+###A Concept for Integrating Issue Managements of Independently Developed Components###
